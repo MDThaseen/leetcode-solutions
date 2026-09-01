@@ -35,6 +35,7 @@
 | [0015-3sum](https://github.com/MDThaseen/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/MDThaseen/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/MDThaseen/leetcode-solutions/tree/master/0018-4sum) |
+| [0217-contains-duplicate](https://github.com/MDThaseen/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0012-integer-to-roman](https://github.com/MDThaseen/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MDThaseen/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MDThaseen/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0217-contains-duplicate](https://github.com/MDThaseen/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Trie
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 | [0015-3sum](https://github.com/MDThaseen/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/MDThaseen/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/MDThaseen/leetcode-solutions/tree/master/0018-4sum) |
+| [0217-contains-duplicate](https://github.com/MDThaseen/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Backtracking
 |  |
 | ------- |
