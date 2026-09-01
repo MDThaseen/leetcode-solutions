@@ -18,6 +18,7 @@
 | [0013-roman-to-integer](https://github.com/MDThaseen/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MDThaseen/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MDThaseen/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0242-valid-anagram](https://github.com/MDThaseen/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [0013-roman-to-integer](https://github.com/MDThaseen/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MDThaseen/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/MDThaseen/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/MDThaseen/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 | [0016-3sum-closest](https://github.com/MDThaseen/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/MDThaseen/leetcode-solutions/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/MDThaseen/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/MDThaseen/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Backtracking
 |  |
 | ------- |
