@@ -44,6 +44,7 @@
 | [0053-maximum-subarray](https://github.com/MDThaseen/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MDThaseen/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/MDThaseen/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/MDThaseen/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0016-3sum-closest](https://github.com/MDThaseen/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/MDThaseen/leetcode-solutions/tree/master/0018-4sum) |
 | [0125-valid-palindrome](https://github.com/MDThaseen/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/MDThaseen/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/MDThaseen/leetcode-solutions/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
