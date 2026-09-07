@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/MDThaseen/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/MDThaseen/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MDThaseen/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/MDThaseen/leetcode-solutions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/MDThaseen/leetcode-solutions/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -43,6 +44,7 @@
 | [0016-3sum-closest](https://github.com/MDThaseen/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/MDThaseen/leetcode-solutions/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/MDThaseen/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/MDThaseen/leetcode-solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MDThaseen/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/MDThaseen/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/MDThaseen/leetcode-solutions/tree/master/0169-majority-element) |
