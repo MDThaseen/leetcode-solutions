@@ -49,6 +49,7 @@
 | [0217-contains-duplicate](https://github.com/MDThaseen/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MDThaseen/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MDThaseen/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/MDThaseen/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0125-valid-palindrome](https://github.com/MDThaseen/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/MDThaseen/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/MDThaseen/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/MDThaseen/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 | [0217-contains-duplicate](https://github.com/MDThaseen/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MDThaseen/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MDThaseen/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/MDThaseen/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Trie
 |  |
 | ------- |
@@ -88,6 +91,7 @@
 | [0217-contains-duplicate](https://github.com/MDThaseen/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MDThaseen/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MDThaseen/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/MDThaseen/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -109,6 +113,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/MDThaseen/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/MDThaseen/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
