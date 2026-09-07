@@ -50,6 +50,7 @@
 | [0268-missing-number](https://github.com/MDThaseen/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MDThaseen/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/MDThaseen/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0724-find-pivot-index](https://github.com/MDThaseen/leetcode-solutions/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -127,4 +128,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MDThaseen/leetcode-solutions/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/MDThaseen/leetcode-solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
