@@ -44,6 +44,7 @@
 | [0016-3sum-closest](https://github.com/MDThaseen/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/MDThaseen/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MDThaseen/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/MDThaseen/leetcode-solutions/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/MDThaseen/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/MDThaseen/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/MDThaseen/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -63,6 +64,7 @@
 | [0016-3sum-closest](https://github.com/MDThaseen/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/MDThaseen/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MDThaseen/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/MDThaseen/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/MDThaseen/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MDThaseen/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/MDThaseen/leetcode-solutions/tree/master/0283-move-zeroes) |
