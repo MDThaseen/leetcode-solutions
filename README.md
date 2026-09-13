@@ -10,6 +10,7 @@
 | [0013-roman-to-integer](https://github.com/MDThaseen/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/MDThaseen/leetcode-solutions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/MDThaseen/leetcode-solutions/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/MDThaseen/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0125-valid-palindrome](https://github.com/MDThaseen/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/MDThaseen/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MDThaseen/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/MDThaseen/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -142,4 +144,8 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/MDThaseen/leetcode-solutions/tree/master/0724-find-pivot-index) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/MDThaseen/leetcode-solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
