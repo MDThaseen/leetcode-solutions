@@ -133,6 +133,7 @@
 | [0035-search-insert-position](https://github.com/MDThaseen/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MDThaseen/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/MDThaseen/leetcode-solutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/MDThaseen/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/MDThaseen/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/MDThaseen/leetcode-solutions/tree/master/0704-binary-search) |
 ## Bit Manipulation
@@ -160,4 +161,8 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/MDThaseen/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/MDThaseen/leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
